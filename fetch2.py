@@ -26,8 +26,8 @@ class XEClient:
             return None
 
 # API credentials
-api_id = 'autochekafrica632696224'
-api_key = 'c3sei1i6pm28b6m1d57r0mqttp'
+api_id = 'yourapiid'
+api_key = 'yourapikey'
 
 # Instantiate the client
 client = XEClient(api_id, api_key)
